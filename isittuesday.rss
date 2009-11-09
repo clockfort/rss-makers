@@ -1,0 +1,20 @@
+<rss version='2.0'>
+<channel>
+<title>Is it Tuesday?</title>
+<link>http://clockfort.com/isittuesday</link>
+<item>
+<pubDate>Sun, 08 Nov 2009 00:00:00 -0500</pubDate>
+<title>Is today Tuesday?</title>
+<description>
+No
+</description>
+</item>
+<item>
+<pubDate>Mon, 09 Nov 2009 00:00:01 -0500</pubDate>
+<title>Is today Tuesday?</title>
+<description>
+No
+</description>
+</item>
+</channel>
+</rss>
